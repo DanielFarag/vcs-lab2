@@ -9,7 +9,7 @@ git push origin --delete dev
 
 ### Checkout without commit
 - git stash 
-- git stash apply
+- git stash apply [ return back to continue develpoment ]
 
 
 ### List tags
